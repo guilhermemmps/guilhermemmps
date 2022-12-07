@@ -3,7 +3,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando Engenharia de Software na <a href="https://www.pucrs.br/">PUCRS</a>.
 - 🌱 &nbsp; Aprendendo mais sobre outras linguagens de programação, além de Java.
-- 💼 &nbsp; Contato acadêmico: g.moraes016@edu.pucrs.br
+- 💼 &nbsp; Contato acadêmico: **g.moraes016@edu.pucrs.br**
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 <code><img height="32" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java"/></code>
