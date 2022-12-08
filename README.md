@@ -1,7 +1,7 @@
 <h3> Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando Engenharia de Software na <a href="https://www.pucrs.br/"target="_blank"rel="external">PUCRS</a>.
+- 🎓 &nbsp; Estudando Engenharia de Software na <a href="https://www.pucrs.br/">PUCRS</a>.
 - 🌱 &nbsp; Aprendendo sobre HTML e CSS.
 - 💼 &nbsp; Contato acadêmico: **g.moraes016@edu.pucrs.br**
 
