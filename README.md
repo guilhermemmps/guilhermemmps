@@ -17,6 +17,7 @@
 <h3> Ferramentas de Desenvolvimento </h3>
 
   <code><img height="32" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="intelliJ"/></code>
+   <code><img height="32" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm"/></code>
   <code><img height="32" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode"/></code>
   
   <h3> Redes Sociais </h3>
